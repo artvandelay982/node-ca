@@ -5,7 +5,7 @@
   "main": "lib",
   "bin": {
     "ca": "lib"
-  }
+  },
   "scripts": {
     "test": "mocha"
   },
