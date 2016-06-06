@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "description": "node project scaffolder, utilities, and more",
   "main": "lib",
+  "bin": {
+    "ca": "lib"
+  }
   "scripts": {
     "test": "mocha"
   },
