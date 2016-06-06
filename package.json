@@ -1,5 +1,5 @@
 {
-  "name": "ca",
+  "name": "node-ca",
   "version": "0.0.1",
   "description": "node project scaffolder, utilities, and more",
   "main": "lib",
@@ -20,7 +20,7 @@
   "dependencies": {
     "async": "^2.0.0-rc.5",
     "commander": "^2.9.0",
-    "joi": "^8.4.0",
+    "joi": "https://github.com/artvandelay982/joi",
     "prompt": "^1.0.0"
   }
 }
