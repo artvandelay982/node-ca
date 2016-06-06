@@ -4,7 +4,7 @@
   "description": "node project scaffolder, utilities, and more",
   "main": "lib",
   "bin": {
-    "ca": "./lib"
+    "ca": "./lib/cli"
   },
   "scripts": {
     "test": "mocha"
