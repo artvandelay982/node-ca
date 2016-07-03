@@ -1,6 +1,6 @@
 {
   "name": "node-ca",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "node project scaffolder, utilities, and more",
   "main": "lib",
   "bin": {
